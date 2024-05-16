@@ -1,7 +1,7 @@
 # To-Do List Webapp Test Automation
 
 ## Overview
-This project contains automated test scenarios for verifying the functionalities of a lightweight to-do list webapp using Cucumber and Gherkin.
+This project contains automated test scenarios for verifying the functionalities of a lightweight to-do list webapp using Cucumber and Playwright.
 
 ## Test Scenarios
 ### Positive Scenarios:
